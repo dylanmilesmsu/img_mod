@@ -1,4 +1,4 @@
-module github.com/dylanmilesmsu/img_mod@v1.0.0
+module github.com/dylanmilesmsu/img_mod
 
 go 1.18
 
