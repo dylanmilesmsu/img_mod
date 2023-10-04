@@ -1,4 +1,4 @@
-module werg
+module github.com/dylanmilesmsu/img_mod@v1.0.0
 
 go 1.18
 
